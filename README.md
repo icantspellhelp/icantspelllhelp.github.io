@@ -1,3 +1,2 @@
-# icantspelllhelp.github.io
+# icantspellhelp.github.io
 Christian Aaron O. Pasia
-
